@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="[https://count.getloli.com/@:Dev-Liss?theme=gelbooru&padding=2&scale=1&align=top&pixelated=1&darkmode=auto](https://count.getloli.com/@Lisara?name=Lisara&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1&num=0124)"  />
+  <img src="https://count.getloli.com/@Dev-Liss?name=Dev-Liss&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1&num=0124"  />
 </div>
 
 
