@@ -22,6 +22,9 @@
 <a href="mailto:your-email@gmail.com">
   <img height="50" src="https://raw.githubusercontent.com/Dev-Liss/Dev-Liss/main/assets/gmail.png"/>
 </a>
+<a href="https://medium.com/@lisaramihidinu">
+  <img height="50" src="https://raw.githubusercontent.com/Dev-Liss/Dev-Liss/main/assets/Medium.jpeg"/>
+</a>  
 </p>
 
 ---
